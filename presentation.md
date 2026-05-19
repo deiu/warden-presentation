@@ -15,7 +15,7 @@ Warden pivoted from a blockchain project to an AI project through Warden App (th
 As CTO, I lead an engineering organization of 6 core developers and ~15 full time contractors.
 
 
-# Slide 1 (Problem and constraints)
+# Slide 1.1 (Problem and constraints)
 
 > INTERNAL NOTE: present it as a lesson around decentralized marketplace.
 
@@ -29,12 +29,15 @@ The platform launched in Q2 2025 hoping to reach a very ambitious goal of 100K u
 
 My suggestion was a two-stage plan. Step 1: build an agent market place (like an app store), where devs can register and monetize their agents, and Warden becomes the distribution channel. Step 2: build an agentic economy, where agents could augment their capabilities by outsourcing data from other agents around the world.
 
+# Slide 1.2 (Solution)
+
+My suggestion was a two-stage plan. Step 1: build an agent market place (like an app store), where devs can register and monetize their agents, and Warden becomes the distribution channel. Step 2: build an agentic economy, where agents could augment their capabilities by outsourcing data from other agents around the world.
+
 **How I influenced my peers:** Here are the two main arguments that I used to get buy-in for this proposal. They were based on strategy and commercial incentives, instead of actual numbers, since the vision was very novel at that time.
 
 1. In building a marketplace Warden would be offering distribution (access to its user base) to 3rd party developers who were interesting in building and monetizing their agents. The appealing part for them is that it fixes the "cold-start" problem that most devs/startups have -- i.e., the users are already here. We were interested in quantity vs quality at that time (remember the old app stores?).
 
 2. In parallel, we would be building towards an agentic economy where agents would be able to discover and outsource work to other (more specialized) agents. Coming from a decentralized, standards-based background, I noticed that most of the building blocks that unlock this vision were already there (although in very early stages): ERC-8004 for agent identity and discovery, A2A for inter-agent communication, and x402 for agent-to-agent payments.
-
 
 # Slide 2 (Baseline + why it was hard)
 
